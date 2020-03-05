@@ -602,3 +602,55 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-17.09.22:775][513]LogAssetRegistry: Asset discovery search completed in 11.0228 seconds
 [2020.03.05-17.09.22:779][513]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000014 seconds (updated 0 objects)
 [2020.03.05-17.11.40:961][100]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.05-17.13.39:926][  6]LogSlate: Took 0.000404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.05-17.13.41:553][100]AssetReimport: New page: Outstanding source content changes 3:13:41 AM
+[2020.03.05-17.13.41:841][101]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbeCharacter.fbx)
+[2020.03.05-17.13.42:069][101]LogFbx: Loading FBX Scene from C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbeCharacter.fbx
+[2020.03.05-17.13.42:225][101]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.05-17.14.21:914][101]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.03.05-17.14.22:116][101]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch39
+[2020.03.05-17.14.22:695][101]LogLinker: Failed to load '/Game/Characters/Abe/Ch39_1001_Diffuse': Can't find file.
+[2020.03.05-17.14.22:696][101]LogLinker: Failed to load '/Game/Characters/Abe/Ch39_1001_Diffuse': Can't find file.
+[2020.03.05-17.14.34:338][101]LogLinker: Failed to load '/Game/Characters/Abe/Ch39_1001_Specular': Can't find file.
+[2020.03.05-17.14.34:340][101]LogLinker: Failed to load '/Game/Characters/Abe/Ch39_1001_Specular': Can't find file.
+[2020.03.05-17.14.39:429][101]LogLinker: Failed to load '/Game/Characters/Abe/Ch39_1001_Glossiness': Can't find file.
+[2020.03.05-17.14.39:430][101]LogLinker: Failed to load '/Game/Characters/Abe/Ch39_1001_Glossiness': Can't find file.
+[2020.03.05-17.14.49:194][101]LogLinker: Failed to load '/Game/Characters/Abe/Ch39_1001_Normal': Can't find file.
+[2020.03.05-17.14.49:196][101]LogLinker: Failed to load '/Game/Characters/Abe/Ch39_1001_Normal': Can't find file.
+[2020.03.05-17.14.55:323][101]LogFbx: Triangulating skeletal mesh Ch39
+[2020.03.05-17.15.07:255][101]LogSkeletalMesh: Section 0: 18153 vertices, 52 active bones
+[2020.03.05-17.15.07:266][101]LogSkeletalMesh: Section 0: Material=0, 32098 triangles
+[2020.03.05-17.15.07:642][101]LogSkeletalMesh: Building Skeletal Mesh AbeCharacter...
+[2020.03.05-17.15.11:918][101]LogSkeletalMesh: Section 0: 18153 vertices, 52 active bones
+[2020.03.05-17.15.11:927][101]LogSkeletalMesh: Section 0: Material=0, 32098 triangles
+[2020.03.05-17.15.12:269][101]LogSkeletalMesh: Built Skeletal Mesh [4.63s] /Game/Characters/Abe/AbeCharacter.AbeCharacter
+[2020.03.05-17.15.12:287][101]LogLinker: Failed to load '/Game/Characters/Abe/AbeCharacter_Skeleton': Can't find file.
+[2020.03.05-17.15.12:288][101]LogLinker: Failed to load '/Game/Characters/Abe/AbeCharacter_Skeleton': Can't find file.
+[2020.03.05-17.15.12:302][101]LogLinker: Failed to load '/Game/Characters/Abe/AbeCharacter_PhysicsAsset': Can't find file.
+[2020.03.05-17.15.12:303][101]LogLinker: Failed to load '/Game/Characters/Abe/AbeCharacter_PhysicsAsset': Can't find file.
+[2020.03.05-17.15.12:363][101]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-17.15.12:364][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.05-17.15.13:138][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Abe/AbeCharacter" FILE="../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbeCharacter.uasset" SILENT=true
+[2020.03.05-17.15.13:581][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.03.05-17.15.13:956][102]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbeCharacterD2273AD3460CD0ED42E92B9BAE8A3881.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbeCharacter.uasset'
+[2020.03.05-17.15.14:189][103]AssetCheck: New page: Asset Save: AbeCharacter
+[2020.03.05-17.15.14:189][103]LogContentValidation: Display: Validating SkeletalMesh /Game/Characters/Abe/AbeCharacter.AbeCharacter
+[2020.03.05-17.15.14:216][103]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.03.05-17.15.17:089][216]AssetReimport: Importing new asset /Game/Characters/Abe/AbeCharacter.
+[2020.03.05-17.15.29:598][ 24]AssetReimport: New page: Outstanding source content changes 3:15:29 AM
+[2020.03.05-17.15.29:683][ 25]LogEditorFactories: Performing atomic reimport of [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbeCharacter.fbm/Ch39_1001_Diffuse.png]
+[2020.03.05-17.15.29:747][ 25]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbeCharacter.fbm/Ch39_1001_Diffuse.png)
+[2020.03.05-17.15.35:081][ 25]LogEditorFactories: -- imported successfully
+[2020.03.05-17.15.35:186][ 26]LogEditorFactories: Performing atomic reimport of [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbeCharacter.fbm/Ch39_1001_Specular.png]
+[2020.03.05-17.15.35:193][ 26]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbeCharacter.fbm/Ch39_1001_Specular.png)
+[2020.03.05-17.15.37:164][ 26]LogEditorFactories: -- imported successfully
+[2020.03.05-17.15.37:231][ 27]LogEditorFactories: Performing atomic reimport of [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbeCharacter.fbm/Ch39_1001_Glossiness.png]
+[2020.03.05-17.15.37:255][ 27]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbeCharacter.fbm/Ch39_1001_Glossiness.png)
+[2020.03.05-17.15.41:807][ 27]LogEditorFactories: -- imported successfully
+[2020.03.05-17.15.41:905][ 28]LogEditorFactories: Performing atomic reimport of [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbeCharacter.fbm/Ch39_1001_Normal.png]
+[2020.03.05-17.15.41:997][ 28]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbeCharacter.fbm/Ch39_1001_Normal.png)
+[2020.03.05-17.15.44:382][ 28]LogEditorFactories: -- imported successfully
+[2020.03.05-17.15.47:517][ 38]AssetReimport: Reimported asset Ch39_1001_Diffuse from C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbeCharacter.fbm/Ch39_1001_Diffuse.png.
+[2020.03.05-17.15.47:517][ 38]AssetReimport: Reimported asset Ch39_1001_Specular from C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbeCharacter.fbm/Ch39_1001_Specular.png.
+[2020.03.05-17.15.47:517][ 38]AssetReimport: Reimported asset Ch39_1001_Glossiness from C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbeCharacter.fbm/Ch39_1001_Glossiness.png.
+[2020.03.05-17.15.47:517][ 38]AssetReimport: Reimported asset Ch39_1001_Normal from C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbeCharacter.fbm/Ch39_1001_Normal.png.
