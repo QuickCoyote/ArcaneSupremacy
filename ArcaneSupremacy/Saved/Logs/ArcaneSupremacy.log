@@ -601,3 +601,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-17.09.18:267][  0]LogContentStreaming: Texture pool size now 800 MB
 [2020.03.05-17.09.22:775][513]LogAssetRegistry: Asset discovery search completed in 11.0228 seconds
 [2020.03.05-17.09.22:779][513]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000014 seconds (updated 0 objects)
+[2020.03.05-17.11.40:961][100]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
