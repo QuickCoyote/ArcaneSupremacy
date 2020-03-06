@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.arcanesupremacy-11590370.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/zekti/Documents/Unreal Projects/ArcaneSupremacy/ArcaneSupremacy/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "ArcaneSupremacy-11590370 [UE Editor]"
+				}
+			}
+		}
+	]
+}
