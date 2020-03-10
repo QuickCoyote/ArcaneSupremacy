@@ -1,0 +1,1632 @@
+﻿Log file open, 03/10/20 09:07:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ArcaneSupremacy
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.088890
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundVisualizations
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed initializing OVRPlugin 1.40.0
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7820HQ CPU @ 2.90GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=Quick_Coyote -epicuserid=ce745147c755450a8ce102df74c7e639 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Engine.ini]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.03.10-15.07.57:423][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Engine.ini]
+[2020.03.10-15.07.57:424][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Engine.ini]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Engine.ini]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.10-15.07.57:424][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.10-15.07.57:425][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.10-15.07.57:425][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.10-15.07.57:425][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.10-15.07.57:425][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.10-15.07.57:425][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.10-15.07.57:425][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.10-15.07.57:425][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.10-15.07.57:425][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.10-15.07.57:425][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.10-15.07.57:425][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.10-15.07.57:425][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.10-15.07.57:425][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Engine.ini]
+[2020.03.10-15.07.57:425][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Engine.ini]
+[2020.03.10-15.07.57:428][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-15.07.57:428][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.10-15.07.57:429][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.10-15.07.57:430][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.10-15.07.57:430][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.10-15.07.57:430][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.10-15.07.57:434][  0]LogHAL: Display: Platform has ~ 32 GB [33866735616 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.10-15.07.57:434][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.10-15.07.57:434][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.10-15.07.57:434][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Scalability.ini]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.10-15.07.57:435][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.10-15.07.57:436][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.10-15.07.57:436][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.10-15.07.57:436][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Config/Windows/Engine.ini]
+[2020.03.10-15.07.57:436][  0]LogInit: Computer: DESKTOP-3TSS69U
+[2020.03.10-15.07.57:436][  0]LogInit: User: Jon
+[2020.03.10-15.07.57:436][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.10-15.07.57:436][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.10-15.07.57:436][  0]LogMemory: Memory total: Physical=31.5GB (32GB approx)
+[2020.03.10-15.07.57:436][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.10-15.07.57:436][  0]LogMemory: Process Physical Memory: 108.30 MB used, 108.31 MB peak
+[2020.03.10-15.07.57:436][  0]LogMemory: Process Virtual Memory: 104.39 MB used, 104.39 MB peak
+[2020.03.10-15.07.57:436][  0]LogMemory: Physical Memory: 8176.27 MB used,  24121.56 MB free, 32297.84 MB total
+[2020.03.10-15.07.57:436][  0]LogMemory: Virtual Memory: 5178.87 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2020.03.10-15.07.57:439][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.10-15.07.57:456][  0]LogInit: Using OS detected language (en-US).
+[2020.03.10-15.07.57:456][  0]LogInit: Using OS detected locale (en-US).
+[2020.03.10-15.07.57:457][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.10-15.07.57:640][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.10-15.07.57:682][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.10-15.07.57:682][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.10-15.07.57:936][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.03.10-15.07.57:936][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.10-15.07.57:936][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.10-15.07.57:936][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.10-15.07.57:994][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M1200' (Feature Level 11_0)
+[2020.03.10-15.07.57:994][  0]LogD3D11RHI:       4055/0/16148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.10-15.07.58:002][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.03.10-15.07.58:002][  0]LogD3D11RHI:       128/0/16148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.10-15.07.58:004][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.10-15.07.58:004][  0]LogD3D11RHI:       0/0/16148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.10-15.07.58:004][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.10-15.07.58:046][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.10-15.07.58:046][  0]LogD3D11RHI:     GPU DeviceId: 0x13b6 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.10-15.07.58:046][  0]LogWindows: EnumDisplayDevices:
+[2020.03.10-15.07.58:046][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.03.10-15.07.58:047][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.10-15.07.58:047][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.03.10-15.07.58:047][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.03.10-15.07.58:047][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M1200
+[2020.03.10-15.07.58:048][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.03.10-15.07.58:048][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.03.10-15.07.58:048][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2020.03.10-15.07.58:092][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.10-15.07.58:093][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.10-15.07.58:105][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.10-15.07.58:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.10-15.07.58:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.10-15.07.58:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.10-15.07.58:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.10-15.07.58:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.10-15.07.58:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.10-15.07.58:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.10-15.07.58:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.10-15.07.58:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.10-15.07.58:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.10-15.07.58:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.10-15.07.58:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.10-15.07.58:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.10-15.07.58:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.10-15.07.58:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.10-15.07.58:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.10-15.07.58:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.10-15.07.58:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.10-15.07.58:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.10-15.07.58:504][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.10-15.07.58:504][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.10-15.07.58:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.10-15.07.58:521][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.10-15.07.58:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.10-15.07.58:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.10-15.07.58:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.10-15.07.58:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.10-15.07.58:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.10-15.07.58:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.10-15.07.58:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.10-15.07.58:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.10-15.07.58:607][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.10-15.07.58:616][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.10-15.07.58:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.10-15.07.58:633][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.10-15.07.58:633][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.10-15.07.58:636][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.10-15.07.58:662][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Intermediate/Shaders/WorkingDirectory/1544/).
+[2020.03.10-15.07.58:662][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jon/AppData/Local/Temp/UnrealShaderWorkingDir/AE1F8BEE42C969C301D4D180B28D1A54/'.
+[2020.03.10-15.07.58:663][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.10-15.07.58:663][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.10-15.07.58:663][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.10-15.07.59:487][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.10-15.07.59:545][  0]LogDerivedDataCache: Loaded boot cache 0.06s 81MB C:/Users/Jon/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.10-15.07.59:546][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jon/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.10-15.07.59:546][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.10-15.07.59:546][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.10-15.07.59:546][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.10-15.07.59:546][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.10-15.07.59:561][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.10-15.07.59:561][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.10-15.07.59:561][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.10-15.07.59:562][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.10-15.07.59:562][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.10-15.07.59:562][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.10-15.07.59:591][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.10-15.07.59:594][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.10-15.07.59:594][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.10-15.07.59:652][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2020.03.10-15.07.59:987][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.10-15.08.00:170][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.10-15.08.00:170][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.10-15.08.00:170][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.10-15.08.00:170][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.10-15.08.00:170][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.10-15.08.00:182][  0]LogNetVersion: ArcaneSupremacy 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 665801704)
+[2020.03.10-15.08.01:355][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.058435 seconds
+[2020.03.10-15.08.01:363][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.03.10-15.08.01:363][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.03.10-15.08.01:363][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.10-15.08.01:789][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.10-15.08.01:792][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.10-15.08.01:861][  0]SourceControl: Source control is disabled
+[2020.03.10-15.08.02:410][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.10-15.08.02:420][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.10-15.08.02:420][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.10-15.08.02:522][  0]LogOcInput: OculusInput pre-init called
+[2020.03.10-15.08.03:236][  0]LogEngine: Initializing Engine...
+[2020.03.10-15.08.03:268][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.03.10-15.08.03:269][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.10-15.08.03:643][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.10-15.08.03:650][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.10-15.08.03:671][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.10-15.08.03:671][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.10-15.08.03:671][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.10-15.08.03:671][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.10-15.08.03:671][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.10-15.08.03:671][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.10-15.08.03:671][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.10-15.08.03:671][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.10-15.08.03:671][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.10-15.08.03:671][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.10-15.08.03:701][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.10-15.08.03:701][  0]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.03.10-15.08.03:701][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.10-15.08.03:701][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.10-15.08.03:701][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.10-15.08.03:701][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.10-15.08.03:701][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.10-15.08.03:701][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.10-15.08.03:701][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.10-15.08.04:189][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.03.10-15.08.04:194][  0]LogInit: FAudioDevice initialized.
+[2020.03.10-15.08.04:194][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.10-15.08.04:250][  0]LogDerivedDataCache: Saved boot cache 0.06s 81MB C:/Users/Jon/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.10-15.08.04:255][  0]LogInit: Texture streaming: Enabled
+[2020.03.10-15.08.04:263][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.10-15.08.04:263][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.10-15.08.04:265][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.10-15.08.04:327][  0]LogInit: Transaction tracking system initialized
+[2020.03.10-15.08.04:337][  0]BlueprintLog: New page: Editor Load
+[2020.03.10-15.08.04:366][  0]LocalizationService: Localization service is disabled
+[2020.03.10-15.08.04:704][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/' took 0.02s
+[2020.03.10-15.08.04:704][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.10-15.08.04:704][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.10-15.08.05:428][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.10-15.08.05:428][  0]LightingResults: New page: Lighting Build
+[2020.03.10-15.08.05:429][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.08.05:429][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.08.05:429][  0]MapCheck: New page: Map Check
+[2020.03.10-15.08.05:429][  0]LightingResults: New page: Lighting Build
+[2020.03.10-15.08.05:461][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.03.10-15.08.05:554][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.03.10-15.08.05:558][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.10-15.08.05:591][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.03.10-15.08.05:592][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.10-15.08.05:592][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.165ms to complete.
+[2020.03.10-15.08.05:592][  0]LogFileHelpers: Loading map 'Template_Default' took 0.164
+[2020.03.10-15.08.05:776][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-15.08.05:784][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-15.08.05:792][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-15.08.05:802][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-15.08.05:825][  0]LogCollectionManager: Loaded 0 collections in 0.002722 seconds
+[2020.03.10-15.08.05:841][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Collections/' took 0.00s
+[2020.03.10-15.08.05:841][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Developers/Jon/Collections/' took 0.00s
+[2020.03.10-15.08.05:841][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Collections/' took 0.00s
+[2020.03.10-15.08.05:841][  0]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 3018 classes and 723 folders.
+[2020.03.10-15.08.05:844][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.10-15.08.06:190][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.10-15.08.06:241][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.10-15.08.06:244][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.10-15.08.06:253][  0]LogSlate: Took 0.005793 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.10-15.08.06:415][  0]LogRenderer: Reallocating scene render targets to support 1104x584 Format 9 NumSamples 1 (Frame:1).
+[2020.03.10-15.08.06:545][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.10-15.08.06:545][  0]LogLoad: (Engine Initialization) Total time: 11.22 seconds
+[2020.03.10-15.08.06:545][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.10-15.08.06:611][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.03.10-15.08.06:645][  0]LogSlate: Took 0.005222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.10-15.08.06:839][  3]LogAssetRegistry: Asset discovery search completed in 7.1876 seconds
+[2020.03.10-15.08.06:843][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2020.03.10-15.08.21:250][676]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.10-15.08.21:269][676]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_TurnBased.BP_TurnBased
+[2020.03.10-15.08.21:533][676]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.03.10-15.08.22:555][676]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.10-15.09.02:855][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TurnBased" FILE="../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset" SILENT=true
+[2020.03.10-15.09.02:888][494]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/BP_TurnBased1C26748E44E8B2528E4FE6A221858403.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset'
+[2020.03.10-15.09.02:909][494]AssetCheck: New page: Asset Save: BP_TurnBased
+[2020.03.10-15.09.02:909][494]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_TurnBased.BP_TurnBased
+[2020.03.10-15.09.06:843][890]BlueprintLog: New page: Compile BP_TurnBased
+[2020.03.10-15.09.07:100][890]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.03.10-15.09.07:651][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TurnBased" FILE="../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset" SILENT=true
+[2020.03.10-15.09.07:676][923]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/BP_TurnBased6A4A914E46B2EC727D10AE819E8CDADA.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset'
+[2020.03.10-15.09.07:689][923]AssetCheck: New page: Asset Save: BP_TurnBased
+[2020.03.10-15.09.07:689][923]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_TurnBased.BP_TurnBased
+[2020.03.10-15.09.08:868][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TurnBased" FILE="../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset" SILENT=true
+[2020.03.10-15.09.08:892][ 24]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/BP_TurnBased70CCDB12432C437527FB99837BEAF59E.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset'
+[2020.03.10-15.09.08:906][ 24]AssetCheck: New page: Asset Save: BP_TurnBased
+[2020.03.10-15.09.08:906][ 24]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_TurnBased.BP_TurnBased
+[2020.03.10-15.09.13:849][518]LogSlate: Window 'BP_TurnBased' being destroyed
+[2020.03.10-15.09.39:650][550]LogSlate: Took 0.007216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.10-15.10.12:664][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TurnBased" FILE="../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset" SILENT=true
+[2020.03.10-15.10.12:690][364]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/BP_TurnBasedB7E247C24A3C51B7201B2399CA57DED4.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset'
+[2020.03.10-15.10.12:705][364]AssetCheck: New page: Asset Save: BP_TurnBased
+[2020.03.10-15.10.12:705][364]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_TurnBased.BP_TurnBased
+[2020.03.10-15.10.17:299][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TurnBased" FILE="../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset" SILENT=true
+[2020.03.10-15.10.17:325][898]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/BP_TurnBasedC06FD5154B8C00C872C16C8ABF85ACE5.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset'
+[2020.03.10-15.10.17:338][898]AssetCheck: New page: Asset Save: BP_TurnBased
+[2020.03.10-15.10.17:338][898]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_TurnBased.BP_TurnBased
+[2020.03.10-15.10.23:569][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TurnBased" FILE="../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset" SILENT=true
+[2020.03.10-15.10.23:595][611]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/BP_TurnBased1F5A65764A36ADAE7AE9F2B828FD9EBF.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset'
+[2020.03.10-15.10.23:609][611]AssetCheck: New page: Asset Save: BP_TurnBased
+[2020.03.10-15.10.23:609][611]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_TurnBased.BP_TurnBased
+[2020.03.10-15.10.25:099][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TurnBased" FILE="../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset" SILENT=true
+[2020.03.10-15.10.25:125][774]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/BP_TurnBasedB633176B48180BECE98262877BA660B0.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset'
+[2020.03.10-15.10.25:139][774]AssetCheck: New page: Asset Save: BP_TurnBased
+[2020.03.10-15.10.25:139][774]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_TurnBased.BP_TurnBased
+[2020.03.10-15.10.25:885][856]BlueprintLog: New page: Compile BP_TurnBased
+[2020.03.10-15.10.26:136][856]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.03.10-15.10.26:680][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TurnBased" FILE="../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset" SILENT=true
+[2020.03.10-15.10.26:705][898]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/BP_TurnBased8A813C6746702E416EDCBA87EDC5C1F4.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset'
+[2020.03.10-15.10.26:717][898]AssetCheck: New page: Asset Save: BP_TurnBased
+[2020.03.10-15.10.26:717][898]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_TurnBased.BP_TurnBased
+[2020.03.10-15.10.36:614][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TurnBased" FILE="../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset" SILENT=true
+[2020.03.10-15.10.36:639][ 48]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/BP_TurnBasedEB6DC3944B2458820614E8A9BDE5242C.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset'
+[2020.03.10-15.10.36:654][ 48]AssetCheck: New page: Asset Save: BP_TurnBased
+[2020.03.10-15.10.36:654][ 48]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_TurnBased.BP_TurnBased
+[2020.03.10-15.10.37:432][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TurnBased" FILE="../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset" SILENT=true
+[2020.03.10-15.10.37:457][129]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/BP_TurnBased5D36711B4D545D96CA56AE9CE6D9B7CF.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset'
+[2020.03.10-15.10.37:471][129]AssetCheck: New page: Asset Save: BP_TurnBased
+[2020.03.10-15.10.37:471][129]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_TurnBased.BP_TurnBased
+[2020.03.10-15.10.38:326][230]BlueprintLog: New page: Compile BP_TurnBased
+[2020.03.10-15.10.38:567][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.03.10-15.10.38:965][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TurnBased" FILE="../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset" SILENT=true
+[2020.03.10-15.10.38:991][254]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/BP_TurnBased2D10287D44DFDD781E9DB2B24784BDC4.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/BP_TurnBased.uasset'
+[2020.03.10-15.10.39:004][254]AssetCheck: New page: Asset Save: BP_TurnBased
+[2020.03.10-15.10.39:004][254]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_TurnBased.BP_TurnBased
+[2020.03.10-15.15.00:317][535]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.03.10-15.15.14:838][802]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton AbeCharacter_Skeleton, removing AnimBP from actor.
+[2020.03.10-15.15.14:839][802]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton AbeCharacter_Skeleton, removing AnimBP from actor.
+[2020.03.10-15.15.14:839][802]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton AbeCharacter_Skeleton, removing AnimBP from actor.
+[2020.03.10-15.15.16:655][963]LogRenderer: Reallocating scene render targets to support 1144x708 Format 9 NumSamples 1 (Frame:1).
+[2020.03.10-15.15.21:771][546]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/ThirdPersonCharacter97B9235C43F26376F498FF8FC76B01C6.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.03.10-15.15.21:789][546]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.03.10-15.15.21:789][546]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.03.10-15.15.22:552][635]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.03.10-15.15.22:891][635]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.03.10-15.15.23:697][695]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/ThirdPersonCharacterA48D2FD9402DE0F397445FB877490F95.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.03.10-15.15.23:711][695]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.03.10-15.15.23:711][695]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.03.10-15.15.27:170][ 91]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.10-15.15.27:195][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.10-15.15.27:196][ 91]PIE: New page: PIE session: Untitled_1 (Mar 10, 2020, 3:15:27 AM)
+[2020.03.10-15.15.27:197][ 91]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.10-15.15.27:198][ 91]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.03.10-15.15.27:199][ 91]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.03.10-15.15.27:201][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002410s)
+[2020.03.10-15.15.27:202][ 91]LogAIModule: Creating AISystem for world Untitled_1
+[2020.03.10-15.15.27:203][ 91]LogPlayLevel: PIE: World Init took: (0.001254s)
+[2020.03.10-15.15.27:203][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003926s)
+[2020.03.10-15.15.27:242][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.03.10-15.15.27:243][ 91]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.10-15.15.27:243][ 91]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.10-15.15.27:243][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.10-15.15.27:243][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.10-15.15.27:243][ 91]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.10-15.15.27:243][ 91]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.10-15.15.27:243][ 91]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.10-15.15.27:243][ 91]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.10-15.15.27:243][ 91]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.10-15.15.27:243][ 91]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.10-15.15.27:260][ 91]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.10-15.15.27:260][ 91]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.03.10-15.15.27:260][ 91]LogAudioMixer: Display: Is Default: Yes
+[2020.03.10-15.15.27:260][ 91]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.10-15.15.27:260][ 91]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.10-15.15.27:260][ 91]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.10-15.15.27:260][ 91]LogAudioMixer: Display: Channel Order:
+[2020.03.10-15.15.27:260][ 91]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.10-15.15.27:260][ 91]LogAudioMixer: Display: 1: FrontRight
+[2020.03.10-15.15.27:277][ 91]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.03.10-15.15.27:279][ 91]LogInit: FAudioDevice initialized.
+[2020.03.10-15.15.27:338][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-15.15.27:347][ 91]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.10-15.15.27:350][ 91]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2020.03.10-09.15.27
+[2020.03.10-15.15.27:350][ 91]LogWorld: Bringing up level for play took: 0.001038
+[2020.03.10-15.15.27:350][ 91]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.03.10-15.15.27:361][ 91]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.03.10-15.15.27:367][ 91]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.069
+[2020.03.10-15.15.57:823][468]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.10-15.15.57:823][468]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.10-15.15.57:823][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.10-15.15.57:823][468]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.03.10-15.15.57:845][468]LogSlate: Window 'ArcaneSupremacy Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.10-15.15.57:852][468]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.10-15.15.57:852][468]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.15.57:852][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.15.57:862][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.10-15.15.57:870][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.15.57:919][468]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.10-15.15.57:954][468]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.03.10-15.15.57:971][469]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.03.10-15.16.14:991][412]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Abe/AbeCharacter.AbeCharacter
+[2020.03.10-15.16.15:003][412]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.10-15.16.15:231][412]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.10-15.16.15:238][412]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.03.10-15.16.15:289][412]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.10-15.16.15:903][413]LogRenderer: Reallocating scene render targets to support 1144x884 Format 9 NumSamples 1 (Frame:1).
+[2020.03.10-15.16.55:767][346]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2020.03.10-15.16.55:896][346]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Abe/AbesAnimations/Abe_Idle.Abe_Idle
+[2020.03.10-15.16.55:896][346]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Abe/AbesAnimations/Abe_Idle.Abe_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.10-15.16.55:934][346]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.10-15.16.55:963][346]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.10-15.16.56:709][346]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.10-15.17.09:072][732]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Abe/AbeCharacter_Skeleton.AbeCharacter_Skeleton
+[2020.03.10-15.17.09:077][732]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.10-15.17.09:110][732]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.10-15.17.16:079][369]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Abe_Idle97C155F54AF73F21E8DB6C8A21E0DBC1.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe_Idle.uasset'
+[2020.03.10-15.17.16:273][369]AssetCheck: New page: Asset Save: Abe_Idle
+[2020.03.10-15.17.16:273][369]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Abe/AbesAnimations/Abe_Idle.Abe_Idle
+[2020.03.10-15.28.02:374][742]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.28.02:374][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.28.08:974][116]AssetReimport: New page: Outstanding source content changes 3:28:08 AM
+[2020.03.10-15.28.08:978][116]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Standing 2H Magic Attack 01.fbx)
+[2020.03.10-15.28.09:019][116]LogFbx: Loading FBX Scene from C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Standing 2H Magic Attack 01.fbx
+[2020.03.10-15.28.09:063][116]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.10-15.28.25:842][116]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(0) Hips
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(1) Spine
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(2) Spine1
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(3) Spine2
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(4) Neck
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(5) Head
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(7) LeftEye
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(8) RightEye
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(9) LeftShoulder
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(10) LeftArm
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(11) LeftForeArm
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(12) LeftHand
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(25) LeftHandRing1
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(26) LeftHandRing2
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(27) LeftHandRing3
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(28) LeftHandRing4
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2020.03.10-15.28.25:912][116]LogFbx: SortedLinks :(33) RightShoulder
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(34) RightArm
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(35) RightForeArm
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(36) RightHand
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(37) RightHandPinky1
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(38) RightHandPinky2
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(39) RightHandPinky3
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(40) RightHandPinky4
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(41) RightHandRing1
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(42) RightHandRing2
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(43) RightHandRing3
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(44) RightHandRing4
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(49) RightHandIndex1
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(50) RightHandIndex2
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(51) RightHandIndex3
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(52) RightHandIndex4
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(53) RightHandThumb1
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(54) RightHandThumb2
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(55) RightHandThumb3
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(56) RightHandThumb4
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(57) LeftUpLeg
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(58) LeftLeg
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(59) LeftFoot
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(60) LeftToeBase
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(61) LeftToe_End
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(62) RightUpLeg
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(63) RightLeg
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(64) RightFoot
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(65) RightToeBase
+[2020.03.10-15.28.25:913][116]LogFbx: SortedLinks :(66) RightToe_End
+[2020.03.10-15.28.25:914][116]LogFbx: Parsing AnimStack mixamo.com
+[2020.03.10-15.28.25:914][116]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01': Can't find file.
+[2020.03.10-15.28.25:914][116]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01': Can't find file.
+[2020.03.10-15.28.31:107][116]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01
+[2020.03.10-15.28.31:107][116]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.10-15.28.31:502][117]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Standing_2H_Magic_Attack_0188EAB24C4CF4EEC52D71EA9164E18D03.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.uasset'
+[2020.03.10-15.28.31:878][118]AssetCheck: New page: Asset Save: Standing_2H_Magic_Attack_01
+[2020.03.10-15.28.31:878][118]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01
+[2020.03.10-15.28.34:034][233]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01
+[2020.03.10-15.28.34:219][233]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.28.34:219][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.28.34:818][264]AssetReimport: Importing new asset /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.
+[2020.03.10-15.29.08:126][199]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Characters/Abe/AbeCharacter_PhysicsAsset.AbeCharacter_PhysicsAsset
+[2020.03.10-15.29.08:188][199]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0004 seconds. Added 7 classes and 3 folders.
+[2020.03.10-15.29.08:202][199]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2020.03.10-15.30.23:414][336]LogTemp: Resetting audio stream to device id 
+[2020.03.10-15.30.23:445][336]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.10-15.30.23:445][336]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.03.10-15.30.23:445][336]LogAudioMixer: Display: Is Default: Yes
+[2020.03.10-15.30.23:445][336]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.10-15.30.23:445][336]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.10-15.30.23:446][336]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.10-15.30.23:446][336]LogAudioMixer: Display: Channel Order:
+[2020.03.10-15.30.23:446][336]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.10-15.30.23:446][336]LogAudioMixer: Display: 1: FrontRight
+[2020.03.10-15.31.31:759][342]LogTemp: Resetting audio stream to device id 
+[2020.03.10-15.31.31:797][342]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.10-15.31.31:797][342]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.03.10-15.31.31:797][342]LogAudioMixer: Display: Is Default: Yes
+[2020.03.10-15.31.31:797][342]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.10-15.31.31:797][342]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.10-15.31.31:797][342]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.10-15.31.31:798][342]LogAudioMixer: Display: Channel Order:
+[2020.03.10-15.31.31:798][342]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.10-15.31.31:798][342]LogAudioMixer: Display: 1: FrontRight
+[2020.03.10-15.31.46:038][783]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Abe/AbesAnimations/Abe_Idle.Abe_Idle
+[2020.03.10-15.31.46:216][783]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.31.46:216][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.32.03:440][ 81]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.32.03:440][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.32.22:827][ 89]LogUObjectHash: Compacting FUObjectHashTables data took  14.09ms
+[2020.03.10-15.32.24:400][ 89]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.10-15.32.28:202][ 89]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/Abe/AbesAnimations/Abe_Idle.Abe_Idle
+[2020.03.10-15.32.29:900][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.03.10-15.32.29:959][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.03.10-15.32.30:009][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.03.10-15.32.30:206][ 89]SourceControl: rm 'ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe_Idle.uasset'
+[2020.03.10-15.33.51:785][322]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01
+[2020.03.10-15.33.51:785][322]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.10-15.33.53:659][500]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01
+[2020.03.10-15.33.53:659][500]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.10-15.33.56:146][738]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01
+[2020.03.10-15.33.56:146][738]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.10-15.33.57:971][874]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01
+[2020.03.10-15.33.57:971][874]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.10-15.33.59:708][  6]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01
+[2020.03.10-15.33.59:708][  6]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.10-15.34.01:841][192]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01
+[2020.03.10-15.34.01:841][192]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.10-15.36.30:705][165]AssetReimport: New page: Outstanding source content changes 3:36:30 AM
+[2020.03.10-15.36.30:836][165]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe Standing Idle.fbx)
+[2020.03.10-15.36.30:978][165]LogFbx: Loading FBX Scene from C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe Standing Idle.fbx
+[2020.03.10-15.36.31:095][165]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.10-15.36.54:633][165]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.03.10-15.36.54:681][165]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch39
+[2020.03.10-15.36.55:281][165]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Ch39_1001_Diffuse': Can't find file.
+[2020.03.10-15.36.55:281][165]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Ch39_1001_Diffuse': Can't find file.
+[2020.03.10-15.37.00:207][165]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Ch39_1001_Specular': Can't find file.
+[2020.03.10-15.37.00:207][165]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Ch39_1001_Specular': Can't find file.
+[2020.03.10-15.37.02:383][165]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Ch39_1001_Glossiness': Can't find file.
+[2020.03.10-15.37.02:384][165]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Ch39_1001_Glossiness': Can't find file.
+[2020.03.10-15.37.06:596][165]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Ch39_1001_Normal': Can't find file.
+[2020.03.10-15.37.06:597][165]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Ch39_1001_Normal': Can't find file.
+[2020.03.10-15.37.08:864][165]LogFbx: Triangulating skeletal mesh Ch39
+[2020.03.10-15.37.13:032][165]LogSkeletalMesh: Section 0: 18153 vertices, 52 active bones
+[2020.03.10-15.37.13:036][165]LogSkeletalMesh: Section 0: Material=0, 32098 triangles
+[2020.03.10-15.37.13:191][165]LogSkeletalMesh: Building Skeletal Mesh Abe_Standing_Idle...
+[2020.03.10-15.37.14:681][165]LogSkeletalMesh: Section 0: 18153 vertices, 52 active bones
+[2020.03.10-15.37.14:684][165]LogSkeletalMesh: Section 0: Material=0, 32098 triangles
+[2020.03.10-15.37.14:786][165]LogSkeletalMesh: Built Skeletal Mesh [1.60s] /Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle.Abe_Standing_Idle
+[2020.03.10-15.37.14:792][165]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_PhysicsAsset': Can't find file.
+[2020.03.10-15.37.14:792][165]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_PhysicsAsset': Can't find file.
+[2020.03.10-15.37.14:821][165]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.37.14:821][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(0) Hips
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(1) Spine
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(2) Spine1
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(3) Spine2
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(4) Neck
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(5) Head
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(8) LeftArm
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(10) LeftHand
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(31) RightShoulder
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(32) RightArm
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(33) RightForeArm
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(34) RightHand
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.03.10-15.37.14:839][165]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(56) LeftLeg
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(57) LeftFoot
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(61) RightLeg
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(62) RightFoot
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(63) RightToeBase
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(64) RightToe_End
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(0) Hips
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(1) Spine
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(2) Spine1
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(3) Spine2
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(4) Neck
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(5) Head
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(8) LeftArm
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(10) LeftHand
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(31) RightShoulder
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(32) RightArm
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(33) RightForeArm
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(34) RightHand
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.03.10-15.37.14:840][165]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(56) LeftLeg
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(57) LeftFoot
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(61) RightLeg
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(62) RightFoot
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(63) RightToeBase
+[2020.03.10-15.37.14:841][165]LogFbx: SortedLinks :(64) RightToe_End
+[2020.03.10-15.37.14:842][165]LogFbx: Parsing AnimStack Take 001
+[2020.03.10-15.37.14:842][165]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_Take_001': Can't find file.
+[2020.03.10-15.37.14:842][165]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_Take_001': Can't find file.
+[2020.03.10-15.37.16:229][165]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_Take_001.Abe_Standing_Idle_Anim_Take_001
+[2020.03.10-15.37.16:229][165]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_Take_001.Abe_Standing_Idle_Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.10-15.37.16:240][165]LogFbx: Parsing AnimStack mixamo.com
+[2020.03.10-15.37.16:241][165]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com': Can't find file.
+[2020.03.10-15.37.16:241][165]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com': Can't find file.
+[2020.03.10-15.37.16:555][165]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com.Abe_Standing_Idle_Anim_mixamo_com
+[2020.03.10-15.37.16:555][165]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com.Abe_Standing_Idle_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.10-15.37.17:597][166]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Abe_Standing_Idle1E5217004C2AA6E4611017B0727126FF.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe_Standing_Idle.uasset'
+[2020.03.10-15.37.18:162][167]AssetCheck: New page: Asset Save: Abe_Standing_Idle
+[2020.03.10-15.37.18:162][167]LogContentValidation: Display: Validating SkeletalMesh /Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle.Abe_Standing_Idle
+[2020.03.10-15.37.21:080][372]AssetReimport: Importing new asset /Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle.
+[2020.03.10-15.37.26:829][826]AssetReimport: New page: Outstanding source content changes 3:37:26 AM
+[2020.03.10-15.37.26:832][826]LogEditorFactories: Performing atomic reimport of [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe Standing Idle.fbm/Ch39_1001_Diffuse.png]
+[2020.03.10-15.37.26:871][826]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe Standing Idle.fbm/Ch39_1001_Diffuse.png)
+[2020.03.10-15.37.31:093][826]LogEditorFactories: -- imported successfully
+[2020.03.10-15.37.31:209][827]LogEditorFactories: Performing atomic reimport of [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe Standing Idle.fbm/Ch39_1001_Specular.png]
+[2020.03.10-15.37.31:215][827]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe Standing Idle.fbm/Ch39_1001_Specular.png)
+[2020.03.10-15.37.32:905][827]LogEditorFactories: -- imported successfully
+[2020.03.10-15.37.32:958][828]LogEditorFactories: Performing atomic reimport of [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe Standing Idle.fbm/Ch39_1001_Glossiness.png]
+[2020.03.10-15.37.32:978][828]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe Standing Idle.fbm/Ch39_1001_Glossiness.png)
+[2020.03.10-15.37.36:463][828]LogEditorFactories: -- imported successfully
+[2020.03.10-15.37.36:525][829]LogEditorFactories: Performing atomic reimport of [C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe Standing Idle.fbm/Ch39_1001_Normal.png]
+[2020.03.10-15.37.36:587][829]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe Standing Idle.fbm/Ch39_1001_Normal.png)
+[2020.03.10-15.37.38:449][829]LogEditorFactories: -- imported successfully
+[2020.03.10-15.37.41:182][ 11]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com.Abe_Standing_Idle_Anim_mixamo_com
+[2020.03.10-15.37.41:350][ 11]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.37.41:350][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.37.41:538][ 22]AssetReimport: Reimported asset Ch39_1001_Diffuse from C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe Standing Idle.fbm/Ch39_1001_Diffuse.png.
+[2020.03.10-15.37.41:538][ 22]AssetReimport: Reimported asset Ch39_1001_Specular from C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe Standing Idle.fbm/Ch39_1001_Specular.png.
+[2020.03.10-15.37.41:539][ 22]AssetReimport: Reimported asset Ch39_1001_Glossiness from C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe Standing Idle.fbm/Ch39_1001_Glossiness.png.
+[2020.03.10-15.37.41:539][ 22]AssetReimport: Reimported asset Ch39_1001_Normal from C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe Standing Idle.fbm/Ch39_1001_Normal.png.
+[2020.03.10-15.37.51:453][814]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.37.51:453][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.38.05:916][783]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.10-15.38.17:557][240]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_Take_001.Abe_Standing_Idle_Anim_Take_001
+[2020.03.10-15.38.17:761][240]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.38.17:761][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.38.20:957][466]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com.Abe_Standing_Idle_Anim_mixamo_com
+[2020.03.10-15.38.21:154][466]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.38.21:154][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.38.23:141][611]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Abe_Standing_Idle_Anim_mixamo_coE09A4DEC46FCB5789C1CA6BAD59C37FD.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com.uasset'
+[2020.03.10-15.38.23:381][611]AssetCheck: New page: Asset Save: Abe_Standing_Idle_Anim_mixamo_com
+[2020.03.10-15.38.23:381][611]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com.Abe_Standing_Idle_Anim_mixamo_com
+[2020.03.10-15.38.57:972][309]LogSlate: Window 'Save Asset As' being destroyed
+[2020.03.10-15.39.12:939][309]LogSlate: Window 'Create Pose Asset' being destroyed
+[2020.03.10-15.39.15:994][536]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.39.15:994][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.39.21:397][  2]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.39.21:397][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.39.48:498][647]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2020.03.10-15.39.50:817][647]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.10-15.39.51:065][647]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.03.10-15.39.54:478][959]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.03.10-15.40.03:724][959]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.10-15.40.05:989][959]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.40.05:990][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.40.06:149][959]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.40.06:149][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.40.06:191][959]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.40.06:191][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.40.06:227][959]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01
+[2020.03.10-15.40.07:108][959]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.03.10-15.40.07:159][959]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.03.10-15.40.07:204][959]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.03.10-15.40.07:373][959]SourceControl: rm 'ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.uasset'
+[2020.03.10-15.40.08:799][ 78]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com.Abe_Standing_Idle_Anim_mixamo_com
+[2020.03.10-15.40.08:808][ 78]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.10-15.40.08:846][ 78]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.10-15.40.09:283][ 78]LogContentBrowser: Verbose: The majority of assets in the view are of type: PoseAsset
+[2020.03.10-15.40.13:275][370]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.40.13:275][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.40.15:558][536]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.40.15:559][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.41.40:173][328]AssetReimport: New page: Outstanding source content changes 3:41:40 AM
+[2020.03.10-15.41.40:390][328]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Standing 2H Magic Attack 01.fbx)
+[2020.03.10-15.41.40:637][328]LogFbx: Loading FBX Scene from C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Standing 2H Magic Attack 01.fbx
+[2020.03.10-15.41.40:815][328]LogFbx: FBX Scene Loaded Succesfully
+[2020.03.10-15.41.55:333][328]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.03.10-15.41.55:548][328]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch39
+[2020.03.10-15.41.55:569][328]LogFbx: Triangulating skeletal mesh Ch39
+[2020.03.10-15.42.06:823][328]LogSkeletalMesh: Section 0: 18153 vertices, 52 active bones
+[2020.03.10-15.42.06:833][328]LogSkeletalMesh: Section 0: Material=0, 32098 triangles
+[2020.03.10-15.42.07:331][328]LogSkeletalMesh: Building Skeletal Mesh Standing_2H_Magic_Attack_01...
+[2020.03.10-15.42.11:504][328]LogSkeletalMesh: Section 0: 18153 vertices, 52 active bones
+[2020.03.10-15.42.11:512][328]LogSkeletalMesh: Section 0: Material=0, 32098 triangles
+[2020.03.10-15.42.11:825][328]LogSkeletalMesh: Built Skeletal Mesh [4.50s] /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01
+[2020.03.10-15.42.11:849][328]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_PhysicsAsset': Can't find file.
+[2020.03.10-15.42.11:850][328]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_PhysicsAsset': Can't find file.
+[2020.03.10-15.42.11:913][328]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.42.11:913][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.42.11:975][328]LogFbx: SortedLinks :(0) Hips
+[2020.03.10-15.42.11:975][328]LogFbx: SortedLinks :(1) Spine
+[2020.03.10-15.42.11:975][328]LogFbx: SortedLinks :(2) Spine1
+[2020.03.10-15.42.11:975][328]LogFbx: SortedLinks :(3) Spine2
+[2020.03.10-15.42.11:975][328]LogFbx: SortedLinks :(4) Neck
+[2020.03.10-15.42.11:976][328]LogFbx: SortedLinks :(5) Head
+[2020.03.10-15.42.11:976][328]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.03.10-15.42.11:976][328]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.03.10-15.42.11:976][328]LogFbx: SortedLinks :(8) LeftArm
+[2020.03.10-15.42.11:976][328]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.03.10-15.42.11:976][328]LogFbx: SortedLinks :(10) LeftHand
+[2020.03.10-15.42.11:976][328]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.03.10-15.42.11:976][328]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.03.10-15.42.11:976][328]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.03.10-15.42.11:976][328]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.03.10-15.42.11:976][328]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.03.10-15.42.11:977][328]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.03.10-15.42.11:977][328]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.03.10-15.42.11:977][328]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.03.10-15.42.11:977][328]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.03.10-15.42.11:977][328]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.03.10-15.42.11:977][328]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.03.10-15.42.11:977][328]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.03.10-15.42.11:977][328]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.03.10-15.42.11:977][328]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.03.10-15.42.11:977][328]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.03.10-15.42.11:977][328]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.03.10-15.42.11:978][328]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.03.10-15.42.11:978][328]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.03.10-15.42.11:978][328]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.03.10-15.42.11:978][328]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.03.10-15.42.11:978][328]LogFbx: SortedLinks :(31) RightShoulder
+[2020.03.10-15.42.11:978][328]LogFbx: SortedLinks :(32) RightArm
+[2020.03.10-15.42.11:978][328]LogFbx: SortedLinks :(33) RightForeArm
+[2020.03.10-15.42.11:978][328]LogFbx: SortedLinks :(34) RightHand
+[2020.03.10-15.42.11:978][328]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.03.10-15.42.11:978][328]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.03.10-15.42.11:978][328]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.03.10-15.42.11:978][328]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.03.10-15.42.11:978][328]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.03.10-15.42.11:978][328]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.03.10-15.42.11:978][328]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.03.10-15.42.11:978][328]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.03.10-15.42.11:978][328]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.03.10-15.42.11:979][328]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.03.10-15.42.11:979][328]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.03.10-15.42.11:979][328]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.03.10-15.42.11:979][328]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.03.10-15.42.11:979][328]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.03.10-15.42.11:979][328]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.03.10-15.42.11:979][328]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.03.10-15.42.11:979][328]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.03.10-15.42.11:979][328]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.03.10-15.42.11:979][328]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.03.10-15.42.11:979][328]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.03.10-15.42.11:979][328]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.03.10-15.42.11:979][328]LogFbx: SortedLinks :(56) LeftLeg
+[2020.03.10-15.42.11:979][328]LogFbx: SortedLinks :(57) LeftFoot
+[2020.03.10-15.42.11:980][328]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.03.10-15.42.11:980][328]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.03.10-15.42.11:980][328]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.03.10-15.42.11:980][328]LogFbx: SortedLinks :(61) RightLeg
+[2020.03.10-15.42.11:980][328]LogFbx: SortedLinks :(62) RightFoot
+[2020.03.10-15.42.11:980][328]LogFbx: SortedLinks :(63) RightToeBase
+[2020.03.10-15.42.11:980][328]LogFbx: SortedLinks :(64) RightToe_End
+[2020.03.10-15.42.11:980][328]LogFbx: SortedLinks :(0) Hips
+[2020.03.10-15.42.11:980][328]LogFbx: SortedLinks :(1) Spine
+[2020.03.10-15.42.11:980][328]LogFbx: SortedLinks :(2) Spine1
+[2020.03.10-15.42.11:980][328]LogFbx: SortedLinks :(3) Spine2
+[2020.03.10-15.42.11:980][328]LogFbx: SortedLinks :(4) Neck
+[2020.03.10-15.42.11:980][328]LogFbx: SortedLinks :(5) Head
+[2020.03.10-15.42.11:980][328]LogFbx: SortedLinks :(6) HeadTop_End
+[2020.03.10-15.42.11:981][328]LogFbx: SortedLinks :(7) LeftShoulder
+[2020.03.10-15.42.11:981][328]LogFbx: SortedLinks :(8) LeftArm
+[2020.03.10-15.42.11:981][328]LogFbx: SortedLinks :(9) LeftForeArm
+[2020.03.10-15.42.11:981][328]LogFbx: SortedLinks :(10) LeftHand
+[2020.03.10-15.42.11:981][328]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2020.03.10-15.42.11:981][328]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2020.03.10-15.42.11:981][328]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2020.03.10-15.42.11:981][328]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2020.03.10-15.42.11:981][328]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2020.03.10-15.42.11:981][328]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2020.03.10-15.42.11:981][328]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2020.03.10-15.42.11:981][328]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2020.03.10-15.42.11:981][328]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2020.03.10-15.42.11:981][328]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2020.03.10-15.42.11:981][328]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2020.03.10-15.42.11:981][328]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2020.03.10-15.42.11:982][328]LogFbx: SortedLinks :(23) LeftHandRing1
+[2020.03.10-15.42.11:982][328]LogFbx: SortedLinks :(24) LeftHandRing2
+[2020.03.10-15.42.11:982][328]LogFbx: SortedLinks :(25) LeftHandRing3
+[2020.03.10-15.42.11:982][328]LogFbx: SortedLinks :(26) LeftHandRing4
+[2020.03.10-15.42.11:982][328]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2020.03.10-15.42.11:982][328]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2020.03.10-15.42.11:982][328]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2020.03.10-15.42.11:982][328]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2020.03.10-15.42.11:982][328]LogFbx: SortedLinks :(31) RightShoulder
+[2020.03.10-15.42.11:982][328]LogFbx: SortedLinks :(32) RightArm
+[2020.03.10-15.42.11:982][328]LogFbx: SortedLinks :(33) RightForeArm
+[2020.03.10-15.42.11:982][328]LogFbx: SortedLinks :(34) RightHand
+[2020.03.10-15.42.11:982][328]LogFbx: SortedLinks :(35) RightHandThumb1
+[2020.03.10-15.42.11:982][328]LogFbx: SortedLinks :(36) RightHandThumb2
+[2020.03.10-15.42.11:982][328]LogFbx: SortedLinks :(37) RightHandThumb3
+[2020.03.10-15.42.11:982][328]LogFbx: SortedLinks :(38) RightHandThumb4
+[2020.03.10-15.42.11:982][328]LogFbx: SortedLinks :(39) RightHandIndex1
+[2020.03.10-15.42.11:983][328]LogFbx: SortedLinks :(40) RightHandIndex2
+[2020.03.10-15.42.11:983][328]LogFbx: SortedLinks :(41) RightHandIndex3
+[2020.03.10-15.42.11:983][328]LogFbx: SortedLinks :(42) RightHandIndex4
+[2020.03.10-15.42.11:983][328]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2020.03.10-15.42.11:983][328]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2020.03.10-15.42.11:983][328]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2020.03.10-15.42.11:983][328]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2020.03.10-15.42.11:983][328]LogFbx: SortedLinks :(47) RightHandRing1
+[2020.03.10-15.42.11:983][328]LogFbx: SortedLinks :(48) RightHandRing2
+[2020.03.10-15.42.11:983][328]LogFbx: SortedLinks :(49) RightHandRing3
+[2020.03.10-15.42.11:983][328]LogFbx: SortedLinks :(50) RightHandRing4
+[2020.03.10-15.42.11:983][328]LogFbx: SortedLinks :(51) RightHandPinky1
+[2020.03.10-15.42.11:983][328]LogFbx: SortedLinks :(52) RightHandPinky2
+[2020.03.10-15.42.11:983][328]LogFbx: SortedLinks :(53) RightHandPinky3
+[2020.03.10-15.42.11:983][328]LogFbx: SortedLinks :(54) RightHandPinky4
+[2020.03.10-15.42.11:983][328]LogFbx: SortedLinks :(55) LeftUpLeg
+[2020.03.10-15.42.11:984][328]LogFbx: SortedLinks :(56) LeftLeg
+[2020.03.10-15.42.11:984][328]LogFbx: SortedLinks :(57) LeftFoot
+[2020.03.10-15.42.11:984][328]LogFbx: SortedLinks :(58) LeftToeBase
+[2020.03.10-15.42.11:984][328]LogFbx: SortedLinks :(59) LeftToe_End
+[2020.03.10-15.42.11:984][328]LogFbx: SortedLinks :(60) RightUpLeg
+[2020.03.10-15.42.11:984][328]LogFbx: SortedLinks :(61) RightLeg
+[2020.03.10-15.42.11:984][328]LogFbx: SortedLinks :(62) RightFoot
+[2020.03.10-15.42.11:984][328]LogFbx: SortedLinks :(63) RightToeBase
+[2020.03.10-15.42.11:984][328]LogFbx: SortedLinks :(64) RightToe_End
+[2020.03.10-15.42.11:987][328]LogFbx: Parsing AnimStack Take 001
+[2020.03.10-15.42.11:989][328]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_Take_001': Can't find file.
+[2020.03.10-15.42.11:989][328]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_Take_001': Can't find file.
+[2020.03.10-15.42.18:196][328]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_Take_001.Standing_2H_Magic_Attack_01_Anim_Take_001
+[2020.03.10-15.42.18:197][328]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_Take_001.Standing_2H_Magic_Attack_01_Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.10-15.42.18:241][328]LogFbx: Parsing AnimStack mixamo.com
+[2020.03.10-15.42.18:243][328]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_mixamo_com': Can't find file.
+[2020.03.10-15.42.18:244][328]LogLinker: Failed to load '/Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_mixamo_com': Can't find file.
+[2020.03.10-15.42.20:219][328]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_mixamo_com.Standing_2H_Magic_Attack_01_Anim_mixamo_com
+[2020.03.10-15.42.20:219][328]LogAnimationCompression: Recompressing (AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_mixamo_com.Standing_2H_Magic_Attack_01_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.03.10-15.42.22:636][329]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Standing_2H_Magic_Attack_01C3CE01A840CC2DF8C10718A6D5AFDBC1.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.uasset'
+[2020.03.10-15.42.24:574][330]AssetCheck: New page: Asset Save: Standing_2H_Magic_Attack_01
+[2020.03.10-15.42.24:575][330]LogContentValidation: Display: Validating SkeletalMesh /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.Standing_2H_Magic_Attack_01
+[2020.03.10-15.42.27:408][460]AssetReimport: Importing new asset /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01.
+[2020.03.10-15.42.41:763][156]AssetReimport: New page: Outstanding source content changes 3:42:41 AM
+[2020.03.10-15.42.41:987][157]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Standing 2H Magic Attack 01.fbm/Ch39_1001_Normal.png)
+[2020.03.10-15.42.45:715][158]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Standing 2H Magic Attack 01.fbm/Ch39_1001_Glossiness.png)
+[2020.03.10-15.42.52:683][159]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Standing 2H Magic Attack 01.fbm/Ch39_1001_Specular.png)
+[2020.03.10-15.42.55:978][160]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Standing 2H Magic Attack 01.fbm/Ch39_1001_Diffuse.png)
+[2020.03.10-15.43.08:232][161]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Ch39_1001_Normal4C0CB64747CDFC7E541D27BFE5C236C0.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_fbm/Ch39_1001_Normal.uasset'
+[2020.03.10-15.43.12:902][161]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Ch39_1001_Glossiness39071D234FB04DB4B45426805F16AB01.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_fbm/Ch39_1001_Glossiness.uasset'
+[2020.03.10-15.43.15:602][161]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Ch39_1001_Specular2FCB8E374D375135D4F6E2A35393CDC7.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_fbm/Ch39_1001_Specular.uasset'
+[2020.03.10-15.43.19:676][161]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Ch39_1001_Diffuse2745F8C9417FF6A0790B52AD38A9650A.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_fbm/Ch39_1001_Diffuse.uasset'
+[2020.03.10-15.43.22:041][162]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.10-15.43.22:041][162]LogContentValidation: Display: Validating Texture2D /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_fbm/Ch39_1001_Normal.Ch39_1001_Normal
+[2020.03.10-15.43.22:041][162]LogContentValidation: Display: Validating Texture2D /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_fbm/Ch39_1001_Glossiness.Ch39_1001_Glossiness
+[2020.03.10-15.43.22:041][162]LogContentValidation: Display: Validating Texture2D /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_fbm/Ch39_1001_Specular.Ch39_1001_Specular
+[2020.03.10-15.43.22:041][162]LogContentValidation: Display: Validating Texture2D /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_fbm/Ch39_1001_Diffuse.Ch39_1001_Diffuse
+[2020.03.10-15.43.22:291][162]LogUObjectHash: Compacting FUObjectHashTables data took   9.23ms
+[2020.03.10-15.43.22:301][162]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.135
+[2020.03.10-15.43.22:319][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Abe/AbeCharacter_Skeleton] ([1] browsable assets)...
+[2020.03.10-15.43.22:322][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Abe/AbeCharacter_Skeleton]
+[2020.03.10-15.43.22:375][162]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbeCharacter_Skeleton_Auto113EDDBF547E9F20F136CC9B874E260F5.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Autosaves/Game/Characters/Abe/AbeCharacter_Skeleton_Auto1.uasset'
+[2020.03.10-15.43.22:378][162]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com] ([1] browsable assets)...
+[2020.03.10-15.43.22:409][162]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com.Abe_Standing_Idle_Anim_mixamo_com]
+[2020.03.10-15.43.22:409][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com]
+[2020.03.10-15.43.22:496][162]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Abe_Standing_Idle_Anim_mixamo_co06D8F1F64ABD449FD95348A964168488.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Autosaves/Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com_Auto1.uasset'
+[2020.03.10-15.43.22:500][162]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Abe/AbesAnimations/Ch39_Body] ([1] browsable assets)...
+[2020.03.10-15.43.22:525][162]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Characters/Abe/AbesAnimations/Ch39_Body.Ch39_Body]
+[2020.03.10-15.43.22:525][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Abe/AbesAnimations/Ch39_Body]
+[2020.03.10-15.43.22:578][162]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Ch39_Body_Auto1DA40E49643843CA28422D1AAC871823D.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Autosaves/Game/Characters/Abe/AbesAnimations/Ch39_Body_Auto1.uasset'
+[2020.03.10-15.43.22:581][162]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Abe/AbesAnimations/Ch39_1001_Diffuse] ([1] browsable assets)...
+[2020.03.10-15.43.22:595][162]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Abe/AbesAnimations/Ch39_1001_Diffuse.Ch39_1001_Diffuse]
+[2020.03.10-15.43.22:595][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Abe/AbesAnimations/Ch39_1001_Diffuse]
+[2020.03.10-15.43.22:780][162]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Ch39_1001_Diffuse_Auto19A3B01C3434C703ECE61C488F00F66D1.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Autosaves/Game/Characters/Abe/AbesAnimations/Ch39_1001_Diffuse_Auto1.uasset'
+[2020.03.10-15.43.22:784][162]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Abe/AbesAnimations/Ch39_1001_Specular] ([1] browsable assets)...
+[2020.03.10-15.43.22:799][162]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Abe/AbesAnimations/Ch39_1001_Specular.Ch39_1001_Specular]
+[2020.03.10-15.43.22:799][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Abe/AbesAnimations/Ch39_1001_Specular]
+[2020.03.10-15.43.22:944][162]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Ch39_1001_Specular_Auto10636168B41087661D51B66A1B1A70CFF.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Autosaves/Game/Characters/Abe/AbesAnimations/Ch39_1001_Specular_Auto1.uasset'
+[2020.03.10-15.43.22:950][162]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Abe/AbesAnimations/Ch39_1001_Glossiness] ([1] browsable assets)...
+[2020.03.10-15.43.22:969][162]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Abe/AbesAnimations/Ch39_1001_Glossiness.Ch39_1001_Glossiness]
+[2020.03.10-15.43.22:969][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Abe/AbesAnimations/Ch39_1001_Glossiness]
+[2020.03.10-15.43.23:033][162]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Ch39_1001_Glossiness_Auto18DAE618442CCF806265F36B380203C0F.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Autosaves/Game/Characters/Abe/AbesAnimations/Ch39_1001_Glossiness_Auto1.uasset'
+[2020.03.10-15.43.23:037][162]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Abe/AbesAnimations/Ch39_1001_Normal] ([1] browsable assets)...
+[2020.03.10-15.43.23:058][162]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Abe/AbesAnimations/Ch39_1001_Normal.Ch39_1001_Normal]
+[2020.03.10-15.43.23:058][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Abe/AbesAnimations/Ch39_1001_Normal]
+[2020.03.10-15.43.23:273][162]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Ch39_1001_Normal_Auto17F6852B94A6A88F8384AF9BA9D978F1C.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Autosaves/Game/Characters/Abe/AbesAnimations/Ch39_1001_Normal_Auto1.uasset'
+[2020.03.10-15.43.23:277][162]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_PhysicsAsset] ([1] browsable assets)...
+[2020.03.10-15.43.23:315][162]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_PhysicsAsset.Abe_Standing_Idle_PhysicsAsset]
+[2020.03.10-15.43.23:315][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_PhysicsAsset]
+[2020.03.10-15.43.23:386][162]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Abe_Standing_Idle_PhysicsAsset_A2CABEA7F41DEEC1554F0339404212C5F.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Autosaves/Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_PhysicsAsset_Auto1.uasset'
+[2020.03.10-15.43.23:389][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Abe/AbesAnimations/AbePoseAsset] ([1] browsable assets)...
+[2020.03.10-15.43.23:390][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Abe/AbesAnimations/AbePoseAsset]
+[2020.03.10-15.43.24:003][162]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbePoseAsset_Auto1E4D989324745EE6B3CD9B5AE6AA0E0B7.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Autosaves/Game/Characters/Abe/AbesAnimations/AbePoseAsset_Auto1.uasset'
+[2020.03.10-15.43.24:007][162]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_PhysicsAsset] ([1] browsable assets)...
+[2020.03.10-15.43.24:031][162]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_PhysicsAsset.Standing_2H_Magic_Attack_01_PhysicsAsset]
+[2020.03.10-15.43.24:031][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_PhysicsAsset]
+[2020.03.10-15.43.24:081][162]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Standing_2H_Magic_Attack_01_Phys26545D114D9CB573D6BED79AAB745EA6.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Autosaves/Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_PhysicsAsset_Auto1.uasset'
+[2020.03.10-15.43.24:085][162]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_Take_001] ([1] browsable assets)...
+[2020.03.10-15.43.24:111][162]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_Take_001.Standing_2H_Magic_Attack_01_Anim_Take_001]
+[2020.03.10-15.43.24:111][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_Take_001]
+[2020.03.10-15.43.24:156][162]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Standing_2H_Magic_Attack_01_AnimA35338D74C0436D88B877FBDF898D78F.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Autosaves/Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_Take_001_Auto1.uasset'
+[2020.03.10-15.43.24:159][162]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_mixamo_com] ([1] browsable assets)...
+[2020.03.10-15.43.24:185][162]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_mixamo_com.Standing_2H_Magic_Attack_01_Anim_mixamo_com]
+[2020.03.10-15.43.24:186][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_mixamo_com]
+[2020.03.10-15.43.24:245][162]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Standing_2H_Magic_Attack_01_AnimAC507C2A4999378C7B67B78E17AA090A.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Autosaves/Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_mixamo_com_Auto1.uasset'
+[2020.03.10-15.43.24:248][162]LogFileHelpers: Auto-saving content packages took 1.946
+[2020.03.10-15.43.24:918][181]AssetReimport: Importing new asset /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_fbm/Ch39_1001_Normal.
+[2020.03.10-15.43.24:918][181]AssetReimport: Importing new asset /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_fbm/Ch39_1001_Glossiness.
+[2020.03.10-15.43.24:918][181]AssetReimport: Importing new asset /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_fbm/Ch39_1001_Specular.
+[2020.03.10-15.43.24:918][181]AssetReimport: Importing new asset /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_fbm/Ch39_1001_Diffuse.
+[2020.03.10-15.43.29:390][445]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2020.03.10-15.43.35:024][445]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.10-15.43.36:604][527]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_mixamo_com.Standing_2H_Magic_Attack_01_Anim_mixamo_com
+[2020.03.10-15.43.36:906][527]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.43.36:906][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.43.42:593][818]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Standing_2H_Magic_Attack_01_Anim854D329D424E6D38D53449A9A6C912DB.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_mixamo_com.uasset'
+[2020.03.10-15.43.43:029][818]AssetCheck: New page: Asset Save: Standing_2H_Magic_Attack_01_Anim_mixamo_com
+[2020.03.10-15.43.43:029][818]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_mixamo_com.Standing_2H_Magic_Attack_01_Anim_mixamo_com
+[2020.03.10-15.43.49:668][165]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.43.49:668][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.43.53:669][369]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.43.53:669][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.43.54:519][399]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Standing_2H_Magic_Attack_01_Anim9679DC014BD5A5BF006DEEA6B6F04496.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_mixamo_com.uasset'
+[2020.03.10-15.43.54:546][399]AssetCheck: New page: Asset Save: Standing_2H_Magic_Attack_01_Anim_mixamo_com
+[2020.03.10-15.43.54:546][399]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_mixamo_com.Standing_2H_Magic_Attack_01_Anim_mixamo_com
+[2020.03.10-15.44.46:295][654]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Standing_2H_Magic_Attack_01_AnimE729F5804804F0C332ABDEBF629D0285.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_mixamo_com.uasset'
+[2020.03.10-15.44.46:327][654]AssetCheck: New page: Asset Save: Standing_2H_Magic_Attack_01_Anim_mixamo_com
+[2020.03.10-15.44.46:327][654]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Abe/AbesAnimations/Standing_2H_Magic_Attack_01_Anim_mixamo_com.Standing_2H_Magic_Attack_01_Anim_mixamo_com
+[2020.03.10-15.44.48:696][759]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.44.48:696][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.44.49:546][792]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Abe_Standing_Idle_Anim_mixamo_coD28F1ECF423191B1FE10519CC84BDE3D.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com.uasset'
+[2020.03.10-15.44.49:595][792]AssetCheck: New page: Asset Save: Abe_Standing_Idle_Anim_mixamo_com
+[2020.03.10-15.44.49:595][792]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com.Abe_Standing_Idle_Anim_mixamo_com
+[2020.03.10-15.44.51:226][858]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Abe_Standing_Idle_Anim_mixamo_coFB794AA74BC8837AB3D148945E9F47F4.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com.uasset'
+[2020.03.10-15.44.51:260][858]AssetCheck: New page: Asset Save: Abe_Standing_Idle_Anim_mixamo_com
+[2020.03.10-15.44.51:260][858]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com.Abe_Standing_Idle_Anim_mixamo_com
+[2020.03.10-15.44.53:382][966]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.44.53:382][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.44.58:961][248]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbePoseAssetF1A44D7B4F039FEC7CF9CB81DBEF63D6.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbePoseAsset.uasset'
+[2020.03.10-15.44.59:374][248]AssetCheck: New page: Asset Save: AbePoseAsset
+[2020.03.10-15.44.59:374][248]LogContentValidation: Display: Validating PoseAsset /Game/Characters/Abe/AbesAnimations/AbePoseAsset.AbePoseAsset
+[2020.03.10-15.45.43:273][ 13]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbePoseAsset410B754742055E4B8FE63CA63C0068E4.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbePoseAsset.uasset'
+[2020.03.10-15.45.43:299][ 13]AssetCheck: New page: Asset Save: AbePoseAsset
+[2020.03.10-15.45.43:299][ 13]LogContentValidation: Display: Validating PoseAsset /Game/Characters/Abe/AbesAnimations/AbePoseAsset.AbePoseAsset
+[2020.03.10-15.45.53:196][607]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-15.45.53:196][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-15.45.56:346][782]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Abe_Standing_Idle_Anim_mixamo_co439C5EFF42924F40779C598660298834.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com.uasset'
+[2020.03.10-15.45.56:373][782]AssetCheck: New page: Asset Save: Abe_Standing_Idle_Anim_mixamo_com
+[2020.03.10-15.45.56:373][782]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com.Abe_Standing_Idle_Anim_mixamo_com
+[2020.03.10-15.46.05:722][349]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Abe/AbeCharacter_Skeleton.AbeCharacter_Skeleton
+[2020.03.10-15.46.05:737][349]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.10-15.46.05:813][349]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.10-15.46.08:292][439]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbeCharacter_Skeleton8A870E444055E671B29B3B9FC2097E44.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbeCharacter_Skeleton.uasset'
+[2020.03.10-15.46.08:344][439]AssetCheck: New page: Asset Save: AbeCharacter_Skeleton
+[2020.03.10-15.46.08:344][439]LogContentValidation: Display: Validating Skeleton /Game/Characters/Abe/AbeCharacter_Skeleton.AbeCharacter_Skeleton
+[2020.03.10-15.46.13:286][683]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Abe_Standing_Idle_Anim_mixamo_co3E9B1FCF46CD7EABFF788C9616300A3D.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com.uasset'
+[2020.03.10-15.46.13:314][683]AssetCheck: New page: Asset Save: Abe_Standing_Idle_Anim_mixamo_com
+[2020.03.10-15.46.13:315][683]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Abe/AbesAnimations/Abe_Standing_Idle_Anim_mixamo_com.Abe_Standing_Idle_Anim_mixamo_com
+[2020.03.10-15.46.16:729][863]LogUObjectHash: Compacting FUObjectHashTables data took   8.66ms
+[2020.03.10-15.46.21:055][863]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.10-15.46.54:350][ 21]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.03.10-15.47.18:426][ 21]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2020.03.10-15.47.24:198][364]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.47.24:218][364]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.10-15.47.24:920][364]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.10-15.48.57:064][128]LogSlate: Took 0.012567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.10-15.49.29:127][ 21]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/EPose.EPose
+[2020.03.10-15.49.57:784][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EPose" FILE="../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/EPose.uasset" SILENT=true
+[2020.03.10-15.49.57:817][255]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/EPose796769FB45525DCF18B5E6BAEBDE3AF8.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/EPose.uasset'
+[2020.03.10-15.49.58:346][255]AssetCheck: New page: Asset Save: EPose
+[2020.03.10-15.49.58:347][255]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/EPose.EPose
+[2020.03.10-15.50.00:440][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EPose" FILE="../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/EPose.uasset" SILENT=true
+[2020.03.10-15.50.00:493][434]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/EPose5EF78C944C8B3F59575A50946DC9A18F.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/EPose.uasset'
+[2020.03.10-15.50.00:542][434]AssetCheck: New page: Asset Save: EPose
+[2020.03.10-15.50.00:542][434]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/EPose.EPose
+[2020.03.10-15.50.36:066][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EPose" FILE="../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/EPose.uasset" SILENT=true
+[2020.03.10-15.50.36:111][428]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/EPose1034302F457C3F5647D9CD9CFF29C7E8.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Blueprints/EPose.uasset'
+[2020.03.10-15.50.36:157][428]AssetCheck: New page: Asset Save: EPose
+[2020.03.10-15.50.36:157][428]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/EPose.EPose
+[2020.03.10-15.50.39:689][622]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations9700D1F64495144FA104E2858CC71214.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.50.40:157][622]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.50.40:158][622]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.52.03:380][925]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations519A2CCC4B2A14D942564EA9896B646E.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.52.03:422][925]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.52.03:422][925]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.52.25:984][696]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimationsA4ABF0C449ABEA598527F68DF1F84EAD.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.52.26:013][696]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.52.26:013][696]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.52.26:939][740]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimationsD041EA484738B4926CE324967C05136C.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.52.26:972][740]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.52.26:972][740]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.52.27:615][770]BlueprintLog: New page: Compile AbesAnimations
+[2020.03.10-15.52.28:522][770]LogUObjectHash: Compacting FUObjectHashTables data took  14.75ms
+[2020.03.10-15.52.28:922][770]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimationsDA89D8FA4DF0E373C481129599DDB899.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.52.28:961][770]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.52.28:961][770]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.52.29:866][802]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations4CE95E7D4F112676140221890500CCFE.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.52.29:900][802]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.52.29:900][802]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.53.50:382][585]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.03.10-15.53.50:383][585]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.050
+[2020.03.10-15.53.50:384][585]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.03.10-15.53.50:397][585]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.03.10-15.53.50:397][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.03.10-15.53.50:457][585]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/ThirdPersonCharacter_Auto24E8BAA084B3BAD94B81035BFEF6F435A.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2020.03.10-15.53.50:459][585]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Abe/AbesAnimations/AbesAnimations] ([1] browsable assets)...
+[2020.03.10-15.53.50:472][585]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations]
+[2020.03.10-15.53.50:472][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Abe/AbesAnimations/AbesAnimations]
+[2020.03.10-15.53.50:500][585]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations_Auto2B9F7361D4ECAEF91B0435C9F9458101F.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/Autosaves/Game/Characters/Abe/AbesAnimations/AbesAnimations_Auto2.uasset'
+[2020.03.10-15.53.50:501][585]LogFileHelpers: Auto-saving content packages took 0.117
+[2020.03.10-15.54.12:620][196]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations2BF7C14649BC09203BD57EB41FB3199A.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.54.12:644][196]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.54.12:644][196]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.54.20:213][ 84]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimationsD19709CE410EE6649BAE30AC468788AE.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.54.20:230][ 84]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.54.20:230][ 84]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.54.46:725][339]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations4D88B0554CB82FAF83699AAA6262E9C3.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.54.46:743][339]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.54.46:743][339]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.54.47:730][447]BlueprintLog: New page: Compile AbesAnimations
+[2020.03.10-15.54.48:150][447]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2020.03.10-15.54.48:974][523]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations5E1FCBE940C8E6B9214833BF9EDA128A.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.54.48:989][523]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.54.48:989][523]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.55.19:659][401]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations2CFF28C54542EABE4523FAAF924CD713.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.55.19:677][401]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.55.19:677][401]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.55.20:500][480]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimationsA5C1B47A46A11C9241A84197B1583D91.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.55.20:519][480]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.55.20:519][480]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.56.13:125][231]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimationsFC38FCDD4D8E4DEBBCF8FF8F13E98F19.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.56.13:143][231]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.56.13:143][231]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.56.13:841][308]BlueprintLog: New page: Compile AbesAnimations
+[2020.03.10-15.56.14:220][308]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.03.10-15.56.14:777][353]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations44EE86164BA37C7E24D4F2A6694F1DA0.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.56.14:792][353]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.56.14:792][353]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.56.18:807][688]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/ThirdPersonCharacterA90D7D4F41AEC28D1ADB328ED456F762.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.03.10-15.56.18:825][688]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.03.10-15.56.18:825][688]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.03.10-15.56.25:565][368]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/ThirdPersonCharacterA3C42B7B46617EF69AF8D7AA6FA2A157.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.03.10-15.56.25:582][368]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.03.10-15.56.25:582][368]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.03.10-15.56.46:927][709]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimationsA37F28664B527860B9BEF5BF56CEC8F6.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.56.46:944][709]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.56.46:944][709]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.57.07:504][ 29]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations3895E571484A09EA3F7B1E8B25653F18.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.57.07:521][ 29]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.57.07:521][ 29]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.57.12:225][567]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations391353A3402049430F0E7D896B73E5B3.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.57.12:241][567]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.57.12:241][567]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.57.12:426][569]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations8A5D244F459661B7C3907DA82603A625.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.57.12:441][569]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.57.12:441][569]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.57.15:657][932]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations72ED7E4841E8867C0C14168A1D64DA2B.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.57.15:672][932]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.57.15:672][932]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.57.17:125][ 84]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations65F1F78D4FCBEBE75C5D09A9585B7524.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.57.17:140][ 84]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.57.17:140][ 84]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.57.17:357][ 91]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimationsBA1AF202479F0F39476D02BB83B15BF7.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.57.17:372][ 91]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.57.17:372][ 91]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.57.17:622][102]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimationsE116B88747966E4592F207AB69F1BBB3.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.57.17:637][102]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.57.17:637][102]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.57.17:974][124]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations7B797DC14001B6F7DDA0D8A048526925.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.57.17:989][124]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.57.17:989][124]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.57.19:694][307]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations54199ADF40680B45010D56B853949C91.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.57.19:709][307]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.57.19:709][307]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.57.19:924][313]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations5EB0D924414233E046EE5CA90F011C90.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.57.19:939][313]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.57.19:939][313]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.57.20:174][321]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations73E25FAC4AF99FB12C5217B38EA95A59.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.57.20:189][321]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.57.20:189][321]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.57.29:769][424]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimationsD75F688343E4602420250EB9C2587D4C.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.57.29:786][424]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.57.29:786][424]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.57.31:116][556]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimationsA99B7335475BCB937C29898CCBF52F4D.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.57.31:136][556]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.57.31:136][556]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.57.32:131][653]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimationsAE52172C446A979E6A1C4097F76E22BE.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.57.32:147][653]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.57.32:147][653]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.57.35:681][ 47]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations0EFF64A340773992F8C8F7BB730A259E.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.57.35:698][ 47]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.57.35:698][ 47]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.58.11:017][100]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimationsA0AFA86142A601531CCEC0B9C8C2EBA8.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.58.11:034][100]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.58.11:034][100]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.58.12:243][220]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations51B1E5834EA2061F70A3ECADD6CE61CB.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.58.12:258][220]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.58.12:258][220]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.58.19:578][449]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimationsD3EE9716452A12E9F05E9A984AEF57A8.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.58.19:595][449]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.58.19:595][449]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.59.17:539][867]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimations1BA54F7F4F888ACC19CC11887EA963B6.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.59.17:556][867]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.59.17:556][867]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.59.33:821][747]LogSavePackage: Moving '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Saved/AbesAnimationsF168701244E466899DE0999E9102D6FD.tmp' to '../../../../../../Users/Jon/Desktop/ArcaneSupremacy/ArcaneSupremacy/Content/Characters/Abe/AbesAnimations/AbesAnimations.uasset'
+[2020.03.10-15.59.33:836][747]AssetCheck: New page: Asset Save: AbesAnimations
+[2020.03.10-15.59.33:836][747]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Abe/AbesAnimations/AbesAnimations.AbesAnimations
+[2020.03.10-15.59.56:325][322]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.10-15.59.56:325][322]LogWindows: Windows GetLastError: The operation completed successfully. (0)
